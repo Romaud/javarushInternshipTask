@@ -1,1 +1,1 @@
-# javarushInternshipTask
+Задание на поступление на стажировку Javarush
